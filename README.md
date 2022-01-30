@@ -1,1 +1,1 @@
-"# Some-Competitive-Stuff" 
+# Some-Competitive-Stuff
